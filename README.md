@@ -1,2 +1,0 @@
-# Nikel
-Controle Financeiro
